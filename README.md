@@ -30,10 +30,6 @@ If you have:
 
 please feel free to open a pull request or contact the project maintainers.
 
-## License
-
-All content is provided for non-commercial, educational, and archival use. Rights remain with the Fink family and the original copyright holders.
-
 ---
 
 > “Words spoken from the heart enter the heart.”  
